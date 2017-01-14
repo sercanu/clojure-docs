@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basics-rsses on Clojure Docs</title>
+    <link>http://replace-this-with-your-hugo-site.com/basics/index.xml</link>
+    <description>Recent content in Basics-rsses on Clojure Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jan 2017 19:10:01 +0300</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/basics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>index</title>
+      <link>http://replace-this-with-your-hugo-site.com/basics/</link>
+      <pubDate>Sat, 14 Jan 2017 19:10:01 +0300</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/basics/</guid>
+      <description>
+
+&lt;h3 id=&#34;chapter-x&#34;&gt;Chapter X&lt;/h3&gt;
+
+&lt;h1 id=&#34;some-chapter-title&#34;&gt;Some Chapter title&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>http://replace-this-with-your-hugo-site.com/basics/second-content/</link>
+      <pubDate>Sat, 14 Jan 2017 19:10:58 +0300</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/basics/second-content/</guid>
+      <description>&lt;p&gt;Lorem Ipsum&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>first content</title>
+      <link>http://replace-this-with-your-hugo-site.com/basics/first-content/</link>
+      <pubDate>Sat, 14 Jan 2017 19:10:16 +0300</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/basics/first-content/</guid>
+      <description>&lt;p&gt;Lorem Ipsum&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
